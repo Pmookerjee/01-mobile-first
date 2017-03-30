@@ -72,11 +72,10 @@
     justify-content: flex-start;
   }
 
-  ul li {
-    display: flex;
-    justify-content: flex-start;
-    flex-direction: row;
+  .main-nav ul li {
+    display: inline-block;
   }
+
   .icon-menu {
     display: none;
   }
